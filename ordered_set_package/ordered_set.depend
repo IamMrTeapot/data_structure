@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664195447 source:c:\users\asus\desktop\folders\study\c++\ordered_set_package\main.cpp
+	<iostream>
+	"student.h"
+
+1664197023 c:\users\asus\desktop\folders\study\c++\ordered_set_package\student.h
+	<vector>
+	<algorithm>
+

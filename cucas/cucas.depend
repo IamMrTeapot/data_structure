@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662455595 source:c:\users\asus\desktop\study\c++\cucas\main.cpp
+	<iostream>
+	<map>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660706988 source:c:\users\asus\desktop\study\c++\vector_punch\main.cpp
+	<iostream>
+	<vector>
+

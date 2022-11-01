@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664220108 source:c:\users\asus\desktop\folders\study\c++\v_uniq_package\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1664220108 c:\users\asus\desktop\folders\study\c++\v_uniq_package\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1664220926 c:\users\asus\desktop\folders\study\c++\v_uniq_package\student.h
+	<set>
+

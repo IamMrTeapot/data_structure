@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660101385 source:c:\users\asus\desktop\study\c++\nua_with_c++\main.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661250412 source:c:\users\asus\desktop\study\c++\intersection\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

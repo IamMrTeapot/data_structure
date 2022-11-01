@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1664222755 source:c:\users\asus\desktop\folders\study\c++\package_vector_less\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1664222755 c:\users\asus\desktop\folders\study\c++\package_vector_less\vector.h
+	<stdexcept>
+	<iostream>
+
+1664224207 c:\users\asus\desktop\folders\study\c++\package_vector_less\student.h
+

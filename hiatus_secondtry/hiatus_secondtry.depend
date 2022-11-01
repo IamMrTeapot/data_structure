@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662467536 source:c:\users\asus\desktop\study\c++\hiatus_secondtry\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

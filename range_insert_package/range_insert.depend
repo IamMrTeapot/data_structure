@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664221012 source:c:\users\asus\desktop\folders\study\c++\range_insert_package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1664221012 c:\users\asus\desktop\folders\study\c++\range_insert_package\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1664222563 c:\users\asus\desktop\folders\study\c++\range_insert_package\student.h
+

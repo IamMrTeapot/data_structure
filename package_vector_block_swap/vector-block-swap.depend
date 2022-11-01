@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664226300 source:c:\users\asus\desktop\folders\study\c++\package_vector_block_swap\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1664226300 c:\users\asus\desktop\folders\study\c++\package_vector_block_swap\vector.h
+	<stdexcept>
+	<iostream>
+
+1664228691 c:\users\asus\desktop\folders\study\c++\package_vector_block_swap\student.h
+

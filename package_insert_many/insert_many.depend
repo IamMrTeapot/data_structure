@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664194505 source:c:\users\asus\desktop\folders\study\c++\package_insert_many\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1664194505 c:\users\asus\desktop\folders\study\c++\package_insert_many\vector.h
+	<stdexcept>
+	<iostream>
+
+1664195381 c:\users\asus\desktop\folders\study\c++\package_insert_many\student.h
+	<algorithm>
+

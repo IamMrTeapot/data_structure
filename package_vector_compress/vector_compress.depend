@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664187989 source:c:\users\asus\desktop\folders\study\c++\package_vector_compress\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1664187989 c:\users\asus\desktop\folders\study\c++\package_vector_compress\vector.h
+	<stdexcept>
+	<iostream>
+
+1664189870 c:\users\asus\desktop\folders\study\c++\package_vector_compress\student.h
+

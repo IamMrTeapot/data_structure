@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664557880 source:c:\users\asus\desktop\folders\study\c++\package_move_insert\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1664557880 c:\users\asus\desktop\folders\study\c++\package_move_insert\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	"stack.h"
+
+1664558803 c:\users\asus\desktop\folders\study\c++\package_move_insert\student.h
+

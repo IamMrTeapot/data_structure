@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664555649 source:c:\users\asus\desktop\folders\study\c++\pop_many_package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stack>
+	"stack.h"
+	"student.h"
+
+1664555649 c:\users\asus\desktop\folders\study\c++\pop_many_package\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<stack>
+
+1664556110 c:\users\asus\desktop\folders\study\c++\pop_many_package\student.h
+

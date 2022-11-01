@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664555067 source:c:\users\asus\desktop\folders\study\c++\package_deep_push\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"stack.h"
+	"student.h"
+
+1664555067 c:\users\asus\desktop\folders\study\c++\package_deep_push\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<stack>
+	<stdio.h>
+
+1664555577 c:\users\asus\desktop\folders\study\c++\package_deep_push\student.h
+
