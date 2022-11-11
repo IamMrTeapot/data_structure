@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667962436 source:c:\users\asus\desktop\folders\study\c++\splitlist_package\main.cpp
+	<iostream>
+	"list.h"
+
+1667962436 c:\users\asus\desktop\folders\study\c++\splitlist_package\list.h
+	<stdexcept>
+	<iostream>
+	"student.h"
+
+1667965738 c:\users\asus\desktop\folders\study\c++\splitlist_package\student.h
+

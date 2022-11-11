@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1667961755 source:c:\users\asus\desktop\folders\study\c++\package_list_shift\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"list.h"
+	"student.h"
+	<vector>
+
+1667961755 c:\users\asus\desktop\folders\study\c++\package_list_shift\package\list.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<set>
+
+1667962351 c:\users\asus\desktop\folders\study\c++\package_list_shift\package\student.h
+	<algorithm>
+
