@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663510619 source:c:\users\administrator\desktop\year 2\data structure\ex00m2\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+

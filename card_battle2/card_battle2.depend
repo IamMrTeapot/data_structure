@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662482347 source:c:\users\administrator\desktop\year 2\data structure\card_battle2\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+

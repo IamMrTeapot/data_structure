@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662486458 source:c:\users\administrator\desktop\year 2\data structure\moving_median\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
