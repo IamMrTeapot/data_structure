@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668970552 source:c:\users\administrator\desktop\year 2\data structure\grader github\imbalance_package\main.cpp
+	<iostream>
+	"map_bst.h"
+
+1542725522 c:\users\administrator\desktop\year 2\data structure\grader github\imbalance_package\map_bst.h
+	<iostream>
+	"student.h"
+
+1668971682 c:\users\administrator\desktop\year 2\data structure\grader github\imbalance_package\student.h
+

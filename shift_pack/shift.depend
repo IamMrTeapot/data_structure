@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1430239570 source:c:\users\administrator\desktop\year 2\data structure\grader github\shift_pack\main.cpp
+	<iostream>
+	<assert.h>
+	"list.h"
+	<string>
+
+1430239556 c:\users\administrator\desktop\year 2\data structure\grader github\shift_pack\list.h
+	<stdexcept>
+	<iostream>
+	"shift.h"
+
+1668946197 c:\users\administrator\desktop\year 2\data structure\grader github\shift_pack\shift.h
+

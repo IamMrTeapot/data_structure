@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637080688 source:c:\users\administrator\desktop\year 2\data structure\grader github\package_subtree\main.cpp
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<set>
+
+1637080680 c:\users\administrator\desktop\year 2\data structure\grader github\package_subtree\map_bst.h
+	<iostream>
+
+1668966208 c:\users\administrator\desktop\year 2\data structure\grader github\package_subtree\student.h
+	<algorithm>
+	<vector>
+	"map_bst.h"
+

@@ -165,7 +165,7 @@ namespace CP {
 			iterator before;
 			for (iterator it = begin(); it != end(); before = it, it++, i++) {
 				std::cout << "Node " << i << ": " << *it;
-				std::cout << " (prev = " << it.ptr->prev << ", I'm at " << it.ptr << ", next = " << it.ptr->next << ")" << std::endl;
+				std::cout << " (prev = " << it.ptr->prev->data << ", I'm at " << it.ptr << ", next = " << it.ptr->next->data << ")" << std::endl;
 			}
 		}
 		#include "replace.h"
@@ -188,6 +188,7 @@ int main() {
 	y.push_back(1);
 
 	l.replace(2, y);
+	std::cout << "here";
 	CP::list<int>::iterator it = l.begin();
 	l.print();
 	if ((*it++ == 9) && (*it++ == 3) && (*it++ == 2) && (*it++ == 1) && (*it++ == 3) && (*it++ == 2) && (*it++ == 1) && (*it++ == 4) &&
