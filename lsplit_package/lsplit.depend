@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668160427 source:c:\users\administrator\desktop\year 2\data structure\grader github\lsplit_package\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1668161431 c:\users\administrator\desktop\year 2\data structure\grader github\lsplit_package\list.h
+	<stdexcept>
+	<iostream>
+
+1668161238 c:\users\administrator\desktop\year 2\data structure\grader github\lsplit_package\student.h
+
